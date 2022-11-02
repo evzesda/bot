@@ -13,7 +13,7 @@ async def hello_world(client: Client, message: Message):
     await asyncio.sleep(0.2)
     await mg.edit("😘😘😘😘😘")
     await asyncio.sleep(0.2)
-    await mg.edit("😘😘😘😘😘😘😘)
+    await mg.edit("😘😘😘😘😘😘😘")
     await asyncio.sleep(0.2) 
     await mg.edit("😘😘😘😘😘😘😘😘")
     await asyncio.sleep(0.2) 
